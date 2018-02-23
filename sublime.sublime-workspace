@@ -1,0 +1,790 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"style",
+				"style\tAttr"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"script",
+				"script\tTag"
+			],
+			[
+				"styl",
+				"style\tAttr"
+			],
+			[
+				"th",
+				"thumbnail portfolio.jpg\tw:1363 h:695"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"pictu",
+				"picture\t style.css"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"paddi",
+				"padding-top"
+			],
+			[
+				"im",
+				"Images/"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"fix",
+				"fixed"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"cler",
+				"clearTimeout"
+			],
+			[
+				"baloes",
+				"baloesEstourados"
+			],
+			[
+				"balor",
+				"baloesInteiros"
+			],
+			[
+				"balo",
+				"baloesInteiros"
+			],
+			[
+				"bala",
+				"balao_id"
+			],
+			[
+				"innerH",
+				"innerHTML"
+			],
+			[
+				"ge",
+				"getElementById"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"te",
+				"TempoSegundos"
+			],
+			[
+				"back",
+				"background-position"
+			],
+			[
+				"stle",
+				"style\tAttr"
+			],
+			[
+				"Nivel",
+				"NivelJogo"
+			],
+			[
+				"cal",
+				"Calcular"
+			],
+			[
+				"onkey",
+				"onkeypress\tAttr"
+			],
+			[
+				"parse",
+				"parseFloat"
+			],
+			[
+				"comp",
+				"Comprimento"
+			],
+			[
+				"area",
+				"AreaTerreno"
+			],
+			[
+				"prom",
+				"prompt"
+			],
+			[
+				"ig",
+				"igual"
+			],
+			[
+				"li",
+				"lista_coisas"
+			],
+			[
+				"html",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"fons",
+				"font-size"
+			],
+			[
+				"icon",
+				"icon-social\t style.css"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"nav",
+				"nav\t bootstrap.min.css"
+			],
+			[
+				"hi",
+				"hidden"
+			],
+			[
+				"over",
+				"overflow-x"
+			],
+			[
+				"tran",
+				"transform\tCSS - transform: ;"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"fonts",
+				"font-size"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"disp",
+				"display-2\t bootstrap.min.css"
+			],
+			[
+				"trna",
+				"transparent"
+			],
+			[
+				"con",
+				"contain"
+			],
+			[
+				"backgro",
+				"background-size"
+			],
+			[
+				"z",
+				"z-index"
+			],
+			[
+				"navbar",
+				"navbar-transparente\t style.css"
+			],
+			[
+				"trn",
+				"transition\tCSS - transition: ;"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"btn",
+				"btn-warning\t bootstrap.min.css"
+			],
+			[
+				"navbar-lg",
+				"navbar-expand-lg\t bootstrap.min.css"
+			],
+			[
+				"ho",
+				"hover\t pseudo selector"
+			],
+			[
+				"mr",
+				"mr-auto\t bootstrap.min.css"
+			],
+			[
+				"justi",
+				"justify-content-between\t bootstrap.min.css"
+			],
+			[
+				"ri",
+				"text-right\t bootstrap.min.css"
+			],
+			[
+				"flo",
+				"float-lg-right\t bootstrap.min.css"
+			],
+			[
+				"float",
+				"float-right\t bootstrap.min.css"
+			],
+			[
+				"rig",
+				"right"
+			],
+			[
+				"hei",
+				"height"
+			],
+			[
+				"right",
+				"float-right\t bootstrap.min.css"
+			],
+			[
+				"navbar-l",
+				"navbar-expand-lg\t bootstrap.min.css"
+			],
+			[
+				"navbart",
+				"navbar-toggler-icon\t bootstrap.min.css"
+			],
+			[
+				"bg-da",
+				"bg-dark\t bootstrap.min.css"
+			],
+			[
+				"navbar-",
+				"navbar-dark\t bootstrap.min.css"
+			],
+			[
+				"na",
+				"navbar\t bootstrap.min.css"
+			],
+			[
+				"navbar-expand",
+				"navbar-expand-lg\t bootstrap.css"
+			],
+			[
+				"dropd",
+				"dropdown-divider\t bootstrap.min.css"
+			],
+			[
+				"modal",
+				"modal-title\t bootstrap.css"
+			],
+			[
+				"boo",
+				"bootstrap.min.js"
+			],
+			[
+				"dro",
+				"dropdown-toggle\t bootstrap.min.css"
+			],
+			[
+				"drop",
+				"dropdown\t bootstrap.min.css"
+			],
+			[
+				"colla",
+				"collapse\t bootstrap.min.css"
+			],
+			[
+				"navbar-dar",
+				"navbar-dark\t bootstrap.css"
+			],
+			[
+				"img",
+				"img-fluid\t bootstrap.min.css"
+			],
+			[
+				"btn-out",
+				"btn-outline-danger\t bootstrap.min.css"
+			],
+			[
+				"btn-sm",
+				"btn-sm\t bootstrap.css"
+			],
+			[
+				"btn-lg",
+				"btn-lg\t bootstrap.css"
+			],
+			[
+				"row",
+				"row\t bootstrap.min.css"
+			],
+			[
+				"tables",
+				"table-striped\t bootstrap.min.css"
+			],
+			[
+				"heade",
+				"modal-header\t bootstrap.min.css"
+			],
+			[
+				"btn-",
+				"btn-warning\t bootstrap.min.css"
+			],
+			[
+				"title",
+				"modal-title\t bootstrap.min.css"
+			],
+			[
+				"page",
+				"page-item\t bootstrap.min.css"
+			],
+			[
+				"inp",
+				"inputc\tinput - checkbox"
+			],
+			[
+				"form",
+				"form-control\t bootstrap.css"
+			],
+			[
+				"inputt",
+				"inputt\tinput - text"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"abs",
+				"absolute"
+			],
+			[
+				"ab",
+				"absolute"
+			],
+			[
+				"non",
+				"none"
+			],
+			[
+				"list-style-",
+				"list-style-type"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"INN",
+				"inner-wrapper-3\t style.css"
+			],
+			[
+				"bacl",
+				"background-color"
+			],
+			[
+				"lef",
+				"left"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"type",
+				"list-style-type"
+			],
+			[
+				"paddin",
+				"padding-top"
+			],
+			[
+				"fa-a",
+				"fa-cc-amex\t font-awesome.min.css"
+			],
+			[
+				"fa-goo",
+				"fa-google-plus\t font-awesome.min.css"
+			],
+			[
+				"article",
+				"article\tTag"
+			],
+			[
+				"label",
+				"label\t<label>"
+			],
+			[
+				"input",
+				"inputi\tinput - image"
+			],
+			[
+				"inputr",
+				"inputr\tinput - range"
+			],
+			[
+				"inputs",
+				"inputs\tinput - search"
+			],
+			[
+				"auto",
+				"autofocus\tAttr"
+			],
+			[
+				"htm",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"ht",
+				"html5\tSimple HTML5 Boilerplate"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"cen",
+				"center"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"bot",
+				"bottom"
+			],
+			[
+				"fi",
+				"fixed"
+			],
+			[
+				"pos",
+				"position"
+			],
+			[
+				"align",
+				"align-content"
+			],
+			[
+				"alig",
+				"align-content"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"keym",
+				"Keymaps: Cheat Sheet"
+			],
+			[
+				"nsta",
+				"Package Control: Install Package"
+			],
+			[
+				"key",
+				"Keymaps: Cheat Sheet"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"color",
+				"UI: Select Color Scheme"
+			],
+			[
+				"twit",
+				"HTML: Wrap Selection With Tag"
+			]
+		],
+		"width": 474.0
+	},
+	"console":
+	{
+		"height": 130.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+	],
+	"file_history":
+	[
+		"/C/Users/jhol/Desktop/Aula - Portfolio/index.html",
+		"/C/Users/jhol/Desktop/Aula - Portfolio/style.css",
+		"/C/Curso desenvolvimento/Game estourando balões/Index.html",
+		"/C/Curso desenvolvimento/Game estourando balões/jogo.js",
+		"/C/Curso desenvolvimento/Game estourando balões/jogo.html",
+		"/C/Curso desenvolvimento/Seção 9 JavaScript/calculadora.html",
+		"/C/Curso desenvolvimento/Projeto Javascript/javascript.js",
+		"/C/Curso desenvolvimento/Projeto Javascript/Style.css",
+		"/C/Curso desenvolvimento/Projeto Javascript/debug.log",
+		"/C/Curso desenvolvimento/Projeto Javascript/index.html",
+		"/C/Curso desenvolvimento/projeto-inicial-spotify/Index.html",
+		"/C/Curso desenvolvimento/projeto-inicial-spotify/style.css",
+		"/C/Curso desenvolvimento/bootstrap/navegacao.html",
+		"/C/Curso desenvolvimento/bootstrap/Modal windows.html",
+		"/C/Curso desenvolvimento/bootstrap/index.html",
+		"/C/Curso desenvolvimento/bootstrap/glyphicons.html",
+		"/C/Curso desenvolvimento/bootstrap/imagens.html",
+		"/C/Curso desenvolvimento/bootstrap/Tabela.html",
+		"/C/Curso desenvolvimento/bootstrap/Botoes.html",
+		"/C/Curso desenvolvimento/bootstrap/Tabela",
+		"/C/Curso desenvolvimento/Projeto Rocket/Rocket Design Starter Files/style.css",
+		"/C/Curso desenvolvimento/Projeto Rocket/Rocket Design Starter Files/index.html",
+		"/C/Curso desenvolvimento/Projeto Jhol/iceland.html",
+		"/C/Curso desenvolvimento/Projeto Jhol/croatia.html",
+		"/C/Curso desenvolvimento/Projeto Jhol/tags de input.html",
+		"/C/Curso desenvolvimento/Projeto Jhol/belgium.html",
+		"/C/Curso desenvolvimento/Projeto Jhol/norway.html",
+		"/C/Curso desenvolvimento/Projeto Jhol/Index.html",
+		"/C/Curso desenvolvimento/Projeto Jhol/tomorrowland.html",
+		"/C/Curso desenvolvimento/Projeto Jhol/js/html5shiv.js",
+		"/C/Curso desenvolvimento/Seção 6 HTML5/HTML5/html5 new tags",
+		"/C/Curso desenvolvimento/Seção 5 CSS Intermediário/Projeto Jhol/norway.html",
+		"/C/Curso desenvolvimento/Seção 5 CSS Intermediário/Projeto Jhol/iceland.html",
+		"/C/Curso desenvolvimento/Seção 5 CSS Intermediário/Projeto Jhol/croatia.html",
+		"/C/Curso desenvolvimento/Seção 5 CSS Intermediário/Projeto Jhol/belgium.html",
+		"/C/Curso desenvolvimento/Seção 5 CSS Intermediário/Projeto Jhol/tomorrowland.html",
+		"/C/Curso desenvolvimento/Seção 5 CSS Intermediário/Projeto Jhol/Index.html",
+		"/C/Curso desenvolvimento/Seção 5 CSS Intermediário/Projeto Jhol/css/estyle.css",
+		"/C/Curso desenvolvimento/Seção 3 HTML/teste.html",
+		"/C/Curso desenvolvimento/Seção 3 HTML/26 - Projeto final site - Arquivos Necessários/teste.html"
+	],
+	"find":
+	{
+		"height": 25.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"navbarToggler",
+			"block",
+			">\n",
+			"baloesEstourados",
+			"tempoTimerID",
+			"TempoSegundos",
+			"baloesEstourados",
+			"baloesInteiros",
+			"baloesEstourados",
+			"BaloesInteiros",
+			"\t</",
+			"border",
+			"        </",
+			"Cliente",
+			"home",
+			"empresa",
+			"Produtos",
+			"Tabela",
+			"  ",
+			"ormulario",
+			"Comme",
+			"commer",
+			"section",
+			"SECTION",
+			";\n",
+			"img",
+			"h3",
+			"h2",
+			"range",
+			"Range",
+			"autofocus",
+			"\t\t<",
+			"email",
+			"nome",
+			"email"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.CSS Extended Completions":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "sublime.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 274.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
